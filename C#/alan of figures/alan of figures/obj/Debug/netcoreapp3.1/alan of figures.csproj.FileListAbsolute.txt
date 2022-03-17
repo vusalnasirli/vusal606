@@ -1,0 +1,14 @@
+C:\C#\alan of figures\alan of figures\bin\Debug\netcoreapp3.1\alan of figures.exe
+C:\C#\alan of figures\alan of figures\bin\Debug\netcoreapp3.1\alan of figures.deps.json
+C:\C#\alan of figures\alan of figures\bin\Debug\netcoreapp3.1\alan of figures.runtimeconfig.json
+C:\C#\alan of figures\alan of figures\bin\Debug\netcoreapp3.1\alan of figures.runtimeconfig.dev.json
+C:\C#\alan of figures\alan of figures\bin\Debug\netcoreapp3.1\alan of figures.dll
+C:\C#\alan of figures\alan of figures\bin\Debug\netcoreapp3.1\alan of figures.pdb
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.csproj.AssemblyReference.cache
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.AssemblyInfoInputs.cache
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.AssemblyInfo.cs
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.csproj.CoreCompileInputs.cache
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.dll
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.pdb
+C:\C#\alan of figures\alan of figures\obj\Debug\netcoreapp3.1\alan of figures.genruntimeconfig.cache
